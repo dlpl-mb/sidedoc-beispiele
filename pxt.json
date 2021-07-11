@@ -12,7 +12,10 @@
         "README.md",
         "TUTORIAL.md",
         "SCHERE-PAPIER.md",
-        "HOT-OR-COLD.md"
+        "HOT-OR-COLD.md",
+        "TEST.md",
+        "MONTE-CARLO-PI.md",
+        "TOOLS.md"
     ],
     "testFiles": [
         "test.ts"
