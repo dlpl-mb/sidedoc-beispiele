@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "TUTORIAL.md",
-        "SCHERE-PAPIER.md"
+        "SCHERE-PAPIER.md",
+        "HOT-OR-COLD.md"
     ],
     "testFiles": [
         "test.ts"
