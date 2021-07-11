@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutorials.md"
+        "TUTORIAL.md",
+        "SCHERE-PAPIER.md"
     ],
     "testFiles": [
         "test.ts"
