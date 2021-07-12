@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://dlpl-mb.github.io/tutor-zufall/](https://dlpl-mb.github.io/tutor-zufall/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwendeny
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
