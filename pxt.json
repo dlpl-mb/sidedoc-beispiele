@@ -1,5 +1,5 @@
 {
-    "name": "sitedoc-zufall",
+    "name": "sitedoc-beispiele",
     "description": "",
     "dependencies": {
         "core": "*",
