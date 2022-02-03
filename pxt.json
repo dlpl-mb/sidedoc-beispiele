@@ -1,5 +1,5 @@
 {
-    "name": "sidedoc-beispielr",
+    "name": "sidedoc-beispiele",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -25,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
