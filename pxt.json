@@ -13,9 +13,7 @@
         "TUTORIAL.md",
         "SCHERE-PAPIER.md",
         "HOT-OR-COLD.md",
-        "TEST.md",
-        "MONTE-CARLO-PI.md",
-        "TOOLS.md"
+        "MONTE-CARLO-PI.md"
     ],
     "testFiles": [
         "test.ts"
