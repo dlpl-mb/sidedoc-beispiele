@@ -93,3 +93,6 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
  - Bei extrem hohen Zahlen, wo die Berechnung dann auch schon einmal Minuten dauern kann, nähern sich die Ergebnisse bei **Kopf** und **Zahl** immer mehr an.
 
 [Das fertige Programm kannst du hier abrufen] (https://makecode.microbit.org/#pub:_7svgyP5U9Dg4)
+
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
