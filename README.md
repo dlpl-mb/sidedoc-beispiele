@@ -1,4 +1,3 @@
-
 # Dem Zufall auf der Spur
 ## Einstieg: Münzenwurf
 Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
