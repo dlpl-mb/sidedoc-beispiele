@@ -1,6 +1,4 @@
 basic.forever(function () {
-    led.plotBarGraph(
-    input.lightLevel(),
-    255
-    )
+    basic.showNumber(randint(1, 6))
+    basic.pause(5000)
 })
